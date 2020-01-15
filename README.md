@@ -15,11 +15,15 @@ https://nodejs.org/en/
 Após instalar o pacote de depêndencias do Nodejs em seu computador e realizar as instalações, agora, no terminal, vá até a pasta
 onde você baixou o repositório do Matricula Online - API, e rode o seguinte comando:
 
+```
 npm install
+```
 
 
 3º passo:
 Após a conclusão das instalações básicas que o npm irá realizar para o repositório, basta rodar a aplicação localmente com o
 seguinte comando:
 
+```
 npm run dev
+```
