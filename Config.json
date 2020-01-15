@@ -1,0 +1,12 @@
+{
+    "development" : {
+        "port": 8000,
+        "db" : {
+            "name" : "matriculaonline-api",
+            "url" : "producoes-qmlnj.mongodb.net",
+            "user" : "cardosodiaseduardo",
+            "password" : "campanha644"
+        },
+        "information": "caminho para api rodar localmente é 3000. Já para rodar no heroku é process.env.PORT || 3000"
+    }
+}
